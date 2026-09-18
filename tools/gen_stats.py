@@ -41,19 +41,19 @@ def frame(c,W,Hh,title):
             f'fill="{c["acc"]}">{esc(title)}</text></g>')
 
 def stats_card(c, dark):
-    W,Hh = 480,200
+    W,Hh = 450,190
     o=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{Hh}" viewBox="0 0 {W} {Hh}" '
        f'font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace" font-size="13px">']
     o.append(frame(c,W,Hh,"catcraze's github stats"))
-    d=0.28; y=70
+    d=0.28; y=68
     for icon,label,val in ROWS:
         o.append(f'<g opacity="1">{reveal(d)}'
                  f'<g transform="translate(24,{y-12})"><path d="{ICONS[icon]}" fill="{c["key"]}"/></g>'
                  f'<text x="50" y="{y}" fill="{c["txt"]}">{esc(label)}</text>'
-                 f'<text x="316" y="{y}" text-anchor="end" font-weight="700" fill="{c["val"]}">{esc(val)}</text></g>')
-        y+=25; d+=0.07
+                 f'<text x="300" y="{y}" text-anchor="end" font-weight="700" fill="{c["val"]}">{esc(val)}</text></g>')
+        y+=24; d+=0.07
     # ring: 25 of 28 repos private
-    cx,cy,r = 396,112,40
+    cx,cy,r = 372,108,38
     C = 2*3.141592653589793*r
     frac = 25/28.0
     dash = C*frac
@@ -73,11 +73,11 @@ def stats_card(c, dark):
     return '\n'.join(o)
 
 def langs_card(c, dark):
-    W,Hh = 400,200
+    W,Hh = 370,190
     o=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{Hh}" viewBox="0 0 {W} {Hh}" '
        f'font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace" font-size="13px">']
     o.append(frame(c,W,Hh,"most used languages"))
-    BW=W-48; by=56
+    BW=W-48; by=54
     a,b = 0.30/T, 1.25/T
     o.append(f'<clipPath id="lp"><rect x="0" y="0" width="{BW}" height="10" rx="5"/></clipPath>'
              f'<g opacity="1"><animate attributeName="opacity" begin="0s" dur="{T}s" fill="freeze" '
@@ -91,7 +91,7 @@ def langs_card(c, dark):
         w=BW*p/100.0
         o.append(f'<rect x="{x:.2f}" y="0" width="{max(w,1.2)+0.6:.2f}" height="10" fill="{cd if dark else cl}"/>'); x+=w
     o.append('</g></g></g>')
-    d=0.46; y=96; COLW=178
+    d=0.46; y=92; COLW=160
     for i in range(0,len(LANGS),2):
         parts=[]
         for j,(n,p,cd,cl) in enumerate(LANGS[i:i+2]):
@@ -99,7 +99,7 @@ def langs_card(c, dark):
             parts.append(f'<circle cx="{lx+5}" cy="{y-4}" r="5" fill="{cd if dark else cl}"/>'
                          f'<text x="{lx+17}" y="{y}" font-size="12" fill="{c["txt"]}">{esc(n)} '
                          f'<tspan fill="{c["dim"]}">{p:.1f}%</tspan></text>')
-        o.append(f'<g opacity="1">{reveal(d)}{"".join(parts)}</g>'); y+=21; d+=0.06
+        o.append(f'<g opacity="1">{reveal(d)}{"".join(parts)}</g>'); y+=20; d+=0.06
     o.append('</svg>')
     return '\n'.join(o)
 

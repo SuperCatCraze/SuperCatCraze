@@ -44,12 +44,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/stats-dark.svg?v=1">
-    <img alt="github stats" src="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/stats-light.svg?v=1" width="480">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/stats-dark.svg?v=2">
+    <img alt="github stats" src="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/stats-light.svg?v=2" width="450">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/langs-dark.svg?v=1">
-    <img alt="most used languages" src="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/langs-light.svg?v=1" width="400">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/langs-dark.svg?v=2">
+    <img alt="most used languages" src="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/langs-light.svg?v=2" width="370">
   </picture>
 </div>
 
