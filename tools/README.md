@@ -28,3 +28,11 @@ sees an empty box. thats why headless chrome needs setCurrentTime to render it.
 
 bump the ?v= in README.md after editing the svgs or github keeps serving the old
 one from its image cache.
+
+gen_stats.py writes the two bottom cards:
+
+    python3 tools/gen_stats.py
+
+assets/stats-{dark,light}.svg and assets/langs-{dark,light}.svg. same keyTimes
+rule applies. the ring is 25 private of 28 repos, so if that changes edit ROWS
+and the frac in stats_card.
