@@ -17,11 +17,8 @@
 
 ### side projects
 
-most of my stuff is private so this account looks way emptier than it actually is. check out my
-pinned repos, thats everything thats public
+most of my projects is private so yeah. check out anything else I've made.
 
-[FlyBuddy](https://github.com/SuperCatCraze/FlyBuddy) is a pet fruit fly for your mac. its not
-scripted or anything, it runs on a sim of a real fly brain so it works out where to go on its own
+[FlyBuddy](https://github.com/SuperCatCraze/FlyBuddy) Literally a fruit fly brain which is crazy uhm only for mac tho sorry.
 
-[quest-link-frozen-screen-fix](https://github.com/SuperCatCraze/quest-link-frozen-screen-fix) is
-just me losing 2 hours to quest link freezing on one frame. ended up being 4 clicks
+[quest-link-frozen-screen-fix](https://github.com/SuperCatCraze/quest-link-frozen-screen-fix) this was a glitch I found on the quest link or meta link whatever you want to call it stuff and ended up fixing (only took 2 hours)
