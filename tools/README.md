@@ -1,11 +1,30 @@
-Regenerating the card
+two scripts here.
+
+face_to_ascii.py turns avatar.jpg into face.json, a 80x55 grid of [char, weight]
+where weight is ink, soft or null. it samples a dark percentile per cell instead
+of averaging, because averaging erases pencil lines this thin. args:
+
+    python3 tools/face_to_ascii.py 80 55 4 0.15 0.6 tools/avatar.jpg
+
+    80 55   grid, sized so cell aspect matches the font advance / line height
+    4       percentile of cell darkness to sample
+    0.15    floor. below this its paper, not pencil. applied BEFORE gamma or
+            the paper texture lifts into visible noise
+    0.6     gamma, lifts faint strokes
+
+gen_card.py reads face.json and writes assets/card-dark.svg + card-light.svg:
 
     python3 tools/gen_card.py
 
-Writes assets/card-dark.svg and assets/card-light.svg. Numbers live in the
-constants at the top of gen_card.py (FACTS, PROJECTS, STATS, LANGS). ascii.json
-is the gorilla logo sampled to a 42x25 character grid, one [char, class] pair per
-cell, where class is g (head), os (the letters) or rim (the sticker outline).
+numbers live in the constants at the top (BLURB, STATS, LANGS).
 
-If you edit the SVGs, bump the ?v= number in README.md. GitHub caches images
-through its camo proxy and will keep serving the old one otherwise.
+two things that will bite you:
+
+keyTimes on every <animate> has to end at 1. if it doesnt the browser throws the
+whole animation away and you get a static card with no warning.
+
+the card animates in from opacity 0, so anything that screenshots an svg at t=0
+sees an empty box. thats why headless chrome needs setCurrentTime to render it.
+
+bump the ?v= in README.md after editing the svgs or github keeps serving the old
+one from its image cache.

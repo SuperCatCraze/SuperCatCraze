@@ -1,141 +1,146 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="486" viewBox="0 0 900 486" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace" font-size="13.5px">
+<svg xmlns="http://www.w3.org/2000/svg" width="890" height="452" viewBox="0 0 890 452" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace" font-size="13px">
 <style>text,tspan{white-space:pre}.k{fill:#ffa657}.v{fill:#a5d6ff}.d{fill:#6e7681}.ac{fill:#2d97f8}.cur{animation:bl 1.06s steps(1,end) infinite}@keyframes bl{0%,50%{opacity:1}50.01%,100%{opacity:0}}</style>
-<rect x=".5" y=".5" width="899" height="485" rx="12" fill="#0d1117" stroke="#30363d"/>
-<path d="M.5 12.5a12 12 0 0 1 12-12h875a12 12 0 0 1 12 12v23H.5z" fill="#161b22"/>
-<line x1=".5" y1="36" x2="899.5" y2="36" stroke="#30363d"/>
+<rect x=".5" y=".5" width="889" height="451" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 12.5a12 12 0 0 1 12-12h865a12 12 0 0 1 12 12v23H.5z" fill="#161b22"/>
+<line x1=".5" y1="36" x2="889.5" y2="36" stroke="#30363d"/>
 <circle cx="22" cy="18.5" r="6" fill="#ff5f57" opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.0208;0.1458;1"/></circle>
 <circle cx="42" cy="18.5" r="6" fill="#febc2e" opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.0500;0.1750;1"/></circle>
 <circle cx="62" cy="18.5" r="6" fill="#28c840" opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.0792;0.2042;1"/></circle>
-<text x="450.0" y="23" text-anchor="middle" fill="#6e7681" font-size="12">catcraze@gorillaos: ~</text>
+<text x="445.0" y="23" text-anchor="middle" fill="#6e7681" font-size="12">catcraze@github: ~</text>
 <g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.03;0.22;1"/>
-<text fill="#222a33" xml:space="preserve" font-size="13.5px">
-<tspan x="24" y="78.0">                 ........</tspan>
-<tspan x="24" y="91.7">              ..          ..</tspan>
-<tspan x="24" y="105.4">           ..                ..</tspan>
-<tspan x="24" y="119.1">         ..                    ..</tspan>
-<tspan x="24" y="132.8">        ..                      ..</tspan>
-<tspan x="24" y="146.5">       .                          .</tspan>
-<tspan x="24" y="160.2">      .                            .</tspan>
-<tspan x="24" y="173.9">     ..                            ..</tspan>
-<tspan x="24" y="187.6">    .                               ..</tspan>
-<tspan x="24" y="201.3">    .                                .</tspan>
-<tspan x="24" y="215.0">    .                                .</tspan>
-<tspan x="24" y="228.7">     .                              .</tspan>
-<tspan x="24" y="242.4">      .                            .</tspan>
-<tspan x="24" y="256.1">      .                            .</tspan>
-<tspan x="24" y="269.8">      .                            .</tspan>
-<tspan x="24" y="283.5">      .                            .</tspan>
-<tspan x="24" y="297.2">      ..                          ..</tspan>
-<tspan x="24" y="310.9">       .                          .</tspan>
-<tspan x="24" y="324.6">        .                        .</tspan>
-<tspan x="24" y="338.3">        ..                      .</tspan>
-<tspan x="24" y="352.0">         .                      .</tspan>
-<tspan x="24" y="365.7">         ..                    .</tspan>
-<tspan x="24" y="379.4">          ..                  ..</tspan>
-<tspan x="24" y="393.1">            ....          ....</tspan>
-<tspan x="24" y="406.8">                 ........</tspan>
+<text fill="#7d8590" xml:space="preserve" font-size="6.5px">
+<tspan x="26" y="62.0">       -=+++=        =</tspan>
+<tspan x="26" y="68.6">          +        -</tspan>
+<tspan x="26" y="75.2">            +    =</tspan>
+<tspan x="26" y="81.8">         +</tspan>
+<tspan x="26" y="88.4">       =+             -</tspan>
+<tspan x="26" y="95.0">                                 +-</tspan>
+<tspan x="26" y="101.6">                             +</tspan>
+<tspan x="26" y="108.2">              =                    =    =</tspan>
+<tspan x="26" y="121.4">             +                         =</tspan>
+<tspan x="26" y="128.0">               =                              =</tspan>
+<tspan x="26" y="134.6">                                     ==        +</tspan>
+<tspan x="26" y="141.2">            +              -=   =++     +</tspan>
+<tspan x="26" y="147.8">            +                             + =</tspan>
+<tspan x="26" y="154.4">            +                             +=</tspan>
+<tspan x="26" y="161.0">            + =                      =                     =</tspan>
+<tspan x="26" y="167.6">            =  +          +            +                   +</tspan>
+<tspan x="26" y="174.2">               =         =                     +           =</tspan>
+<tspan x="26" y="180.8">               =             +                                   - -==+=-</tspan>
+<tspan x="26" y="187.4">      -++   =  =       =    =+                                            +</tspan>
+<tspan x="26" y="194.0">   =          +         +==         +  +                     +======</tspan>
+<tspan x="26" y="200.6">  =   = =                         =+           =        =</tspan>
+<tspan x="26" y="207.2">           +    +                 =   =      =      =                       +</tspan>
+<tspan x="26" y="213.8">              =                   + +=       =+ =</tspan>
+<tspan x="26" y="220.4"> =    +        =                 +++         =+     =</tspan>
+<tspan x="26" y="227.0">    +     =                     ==        +      +++=+=+==               -=    =</tspan>
+<tspan x="26" y="233.6">+  =     +     =                            =+</tspan>
+<tspan x="26" y="240.2">+     =+                                =             +-  =               =</tspan>
+<tspan x="26" y="246.8">       =+ +                                                        == -     =</tspan>
+<tspan x="26" y="253.4">         + =      =                  ==                      +               +</tspan>
+<tspan x="26" y="260.0">    =       =                        +=               =         ++      +-+  =</tspan>
+<tspan x="26" y="266.6">       -            +              =</tspan>
+<tspan x="26" y="273.2">          -       +=              =                                      +</tspan>
+<tspan x="26" y="279.8">               =  =                    +    =              = ==          +</tspan>
+<tspan x="26" y="286.4">                +                +  =   +                  + ==</tspan>
+<tspan x="26" y="293.0">                   -            +  =    =</tspan>
+<tspan x="26" y="299.6">                 +                +                             =      =</tspan>
+<tspan x="26" y="312.8">                                        =</tspan>
+<tspan x="26" y="319.4">                                    +</tspan>
+<tspan x="26" y="326.0">                                   +   =</tspan>
+<tspan x="26" y="332.6">                 =</tspan>
+<tspan x="26" y="339.2">                 =  +           =    +</tspan>
+<tspan x="26" y="345.8">                  +                =-</tspan>
+<tspan x="26" y="352.4">                                  +</tspan>
+<tspan x="26" y="359.0">                  =          =   =</tspan>
+<tspan x="26" y="365.6">                  =</tspan>
+<tspan x="26" y="372.2">                     =      +  =</tspan>
+<tspan x="26" y="378.8">                 +    ==       =</tspan>
+<tspan x="26" y="385.4">               =               +</tspan>
+<tspan x="26" y="392.0">             -                 =</tspan>
+<tspan x="26" y="398.6">           =    +  =</tspan>
+<tspan x="26" y="405.2">          -    =    +  +==</tspan>
+<tspan x="26" y="411.8">          =   =     -    =   +  -</tspan>
+<tspan x="26" y="418.4">          =   =    ==    +=-    =</tspan>
 </text>
-<text fill="#1c6b32" xml:space="preserve" font-size="13.5px">
-<tspan x="24" y="105.4">                ooo   oooo</tspan>
-<tspan x="24" y="119.1">             oo            oo</tspan>
-<tspan x="24" y="132.8">           o                  o</tspan>
-<tspan x="24" y="146.5">         o                      o</tspan>
-<tspan x="24" y="160.2">        o  ooooooo      ooooooo  o</tspan>
-<tspan x="24" y="173.9">       o oo      ooooooo          o</tspan>
-<tspan x="24" y="187.6">      oo            oo            oo</tspan>
-<tspan x="24" y="201.3">      oo    o            ooooooooooo</tspan>
-<tspan x="24" y="215.0">      oo    oooo               ooooo</tspan>
-<tspan x="24" y="228.7">       o    oooo     ooo       oooo</tspan>
-<tspan x="24" y="242.4">       o    oooo     ooo          o</tspan>
-<tspan x="24" y="256.1">       o    ooooo    ooooooooo    o</tspan>
-<tspan x="24" y="269.8">       o            o             o</tspan>
-<tspan x="24" y="283.5">        ooo      oooo          ooo</tspan>
-<tspan x="24" y="297.2">        ooo      ooooo        oooo</tspan>
-<tspan x="24" y="310.9">         oooooooooooooooooooooooo</tspan>
-<tspan x="24" y="324.6">          oooooooooooooooooooooo</tspan>
-<tspan x="24" y="338.3">          oooooooooooooooooooooo</tspan>
-<tspan x="24" y="352.0">           oooooooooooooooooooo</tspan>
-<tspan x="24" y="365.7">           oooooooooooooooooooo</tspan>
-<tspan x="24" y="379.4">              oooooooooooooo</tspan>
-<tspan x="24" y="393.1">                    oo</tspan>
-</text>
-<text fill="#2ea043" xml:space="preserve" font-size="13.5px">
-<tspan x="24" y="91.7">                    %</tspan>
-<tspan x="24" y="105.4">               %   %%%    %</tspan>
-<tspan x="24" y="119.1">            %  %%%%%%%%%%%%  %</tspan>
-<tspan x="24" y="132.8">          % %%%%%%%%%%%%%%%%%% %</tspan>
-<tspan x="24" y="146.5">          %%%%%%%%%%%%%%%%%%%%%%</tspan>
-<tspan x="24" y="160.2">         %%       %%%%%%       %%</tspan>
-<tspan x="24" y="173.9">        %               %</tspan>
-<tspan x="24" y="187.6">        %%%      %%%  %%</tspan>
-<tspan x="24" y="201.3">     %       %%%%   %%              %</tspan>
-<tspan x="24" y="215.0">           %    %   %%</tspan>
-<tspan x="24" y="228.7">                %   %   %</tspan>
-<tspan x="24" y="242.4">                %   %   %</tspan>
-<tspan x="24" y="256.1">           %        %         %</tspan>
-<tspan x="24" y="269.8">                     %</tspan>
-<tspan x="24" y="283.5">       %             %            %</tspan>
-<tspan x="24" y="297.2">           %%%%%%     %%%%%%%%</tspan>
-<tspan x="24" y="324.6">         %</tspan>
-<tspan x="24" y="379.4">             %              %</tspan>
-<tspan x="24" y="393.1">                   %  %</tspan>
-</text>
-<text fill="#5ce882" xml:space="preserve" font-size="13.5px">
-<tspan x="24" y="91.7">                @@@@ @@@@@</tspan>
-<tspan x="24" y="105.4">             @@            @@</tspan>
-<tspan x="24" y="119.1">           @                  @</tspan>
-<tspan x="24" y="146.5">        @                        @</tspan>
-<tspan x="24" y="160.2">       @                          @</tspan>
-<tspan x="24" y="187.6">     @                  @</tspan>
-<tspan x="24" y="201.3">           @</tspan>
-<tspan x="24" y="215.0">     @                   @@@@@@     @</tspan>
-<tspan x="24" y="228.7">      @    @                       @</tspan>
-<tspan x="24" y="242.4">           @             @@@@@@  @</tspan>
-<tspan x="24" y="269.8">        @@@      @@@           @@@</tspan>
-<tspan x="24" y="310.9">        @                        @</tspan>
-<tspan x="24" y="324.6">                                @</tspan>
-<tspan x="24" y="352.0">          @                    @</tspan>
-<tspan x="24" y="379.4">            @                @</tspan>
-<tspan x="24" y="393.1">                @@@    @@@</tspan>
-</text>
-<text fill="#ffffff" xml:space="preserve" font-size="13.5px">
-<tspan x="24" y="173.9">           ######        #########</tspan>
-<tspan x="24" y="187.6">           ######        #########</tspan>
-<tspan x="24" y="201.3">        ###      ###  ###</tspan>
-<tspan x="24" y="215.0">        ###      ###  ###</tspan>
-<tspan x="24" y="228.7">        ###      ###     ######</tspan>
-<tspan x="24" y="242.4">        ###      ###           ##</tspan>
-<tspan x="24" y="256.1">        ###      ###           ###</tspan>
-<tspan x="24" y="269.8">           ######     #########</tspan>
-<tspan x="24" y="283.5">           ######     #########</tspan>
+<text fill="#f0f6fc" xml:space="preserve" font-size="6.5px">
+<tspan x="26" y="62.0">                    #</tspan>
+<tspan x="26" y="68.6">           **##     #</tspan>
+<tspan x="26" y="75.2">             #%@@  *%</tspan>
+<tspan x="26" y="81.8">          #@%@#*@@@#@</tspan>
+<tspan x="26" y="88.4">         *#@@@@@@@@@@#</tspan>
+<tspan x="26" y="95.0">                #@@@@@@@@@@@@@@%*</tspan>
+<tspan x="26" y="101.6">               #@@%           %##%%%#*</tspan>
+<tspan x="26" y="108.2">               @@+                  ##%#</tspan>
+<tspan x="26" y="114.8">              @@#                     +%%@*</tspan>
+<tspan x="26" y="121.4">              @@                        #@@@%</tspan>
+<tspan x="26" y="128.0">             %@                            @@@</tspan>
+<tspan x="26" y="134.6">             @@                             %@#</tspan>
+<tspan x="26" y="141.2">             @%                    ++**#     *@@@#</tspan>
+<tspan x="26" y="147.8">             @*                       *#*+   *%@@@@@</tspan>
+<tspan x="26" y="154.4">             @+               +@@%*               %@@@@*</tspan>
+<tspan x="26" y="161.0">             @              #%#%%%%##            #@@@@@@@**</tspan>
+<tspan x="26" y="167.6">             %*            *#@@@@@@@@@#         %@@@@@@@@@%</tspan>
+<tspan x="26" y="174.2">             %*           %@@@@@@@@@@@#+        %@@@@@@@@@#</tspan>
+<tspan x="26" y="180.8">             %*          %@@@ @@@@@@@@@*       *@@@@%@@@@#</tspan>
+<tspan x="26" y="187.4">             %*         %@@#  @@@@@@#@%*       *#*@@@@@@@%%@@%%%%%%@@@@@@@</tspan>
+<tspan x="26" y="194.0">    %@%@%@@##%             *#%@@@@@#  *           *#%@@@@@%%#          *@@%@@</tspan>
+<tspan x="26" y="200.6">   @@@   #@@@%#            *****++  +#+         *%@@%@%#                   #@@#*</tspan>
+<tspan x="26" y="207.2">  %@@#@@@@# +##*                   +##        #%@@%*                         %@@</tspan>
+<tspan x="26" y="213.8">  @@##%%%%@@@  **                  +           *                             #@@</tspan>
+<tspan x="26" y="220.4">  @@+*  +##@@@%                                *#***                         %@@</tspan>
+<tspan x="26" y="227.0"> #@% + *%% @@@@%                                                           +@@@</tspan>
+<tspan x="26" y="233.6"> @@   +*+ #@@@%                          %%   %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</tspan>
+<tspan x="26" y="240.2"> @@      *#@@%#                          %@@@@@@@@@%#*     *#%%@@@@@@@@@@@</tspan>
+<tspan x="26" y="246.8"> %@%+    + @@+                            +#%#*                  ##    *@@@#</tspan>
+<tspan x="26" y="253.4">  @@@%@@#   #@@# *                                            #%%%@@@##%@@@@@</tspan>
+<tspan x="26" y="260.0">     *@@@@@@ ##*%@%*                                   *%@@@%%##  #@@@%%   %@</tspan>
+<tspan x="26" y="266.6">        *@@@@@@@@@#*                ##+#%@@@@@@@@%#%%%@@@@@@@@@@@@@@@@@@@@#%+</tspan>
+<tspan x="26" y="273.2">           %@@@%@@                 @@@@@@@@@@@%@@@@@@@@@@@%%%***@@@@##*#%</tspan>
+<tspan x="26" y="279.8">                @@                %@@@#      *@@@@@*   #@   *  *@@@@** %@</tspan>
+<tspan x="26" y="286.4">                 @#               @@     **#@@@@@      %%   *  *%%@@*+ @@</tspan>
+<tspan x="26" y="293.0">                 %@              #%      %@@@@*        #%#*@@@@%#+@@%%@@*</tspan>
+<tspan x="26" y="299.6">                  @#            *#    *@@@@%            #%%@@@%%  %@@@@</tspan>
+<tspan x="26" y="306.2">                  @@                  @@%</tspan>
+<tspan x="26" y="312.8">                 *%#                 *@%</tspan>
+<tspan x="26" y="319.4">                 #@*                 %%*</tspan>
+<tspan x="26" y="326.0">                 #@#                @%@</tspan>
+<tspan x="26" y="332.6">                  @@              +@@@+</tspan>
+<tspan x="26" y="339.2">                  %@             #@%*</tspan>
+<tspan x="26" y="345.8">                   @*           %@@</tspan>
+<tspan x="26" y="352.4">                  *@#          *@@</tspan>
+<tspan x="26" y="359.0">                   @#         #%@</tspan>
+<tspan x="26" y="365.6">                   @@        ##*</tspan>
+<tspan x="26" y="372.2">                  #@@        @@</tspan>
+<tspan x="26" y="378.8">                  @@@%     *@@@</tspan>
+<tspan x="26" y="385.4">                *@@@%@%@@@@@@@#</tspan>
+<tspan x="26" y="392.0">              #@@@+@@@@%#%%@@@*</tspan>
+<tspan x="26" y="398.6">            #%@@    @@@@@@@@@@@*</tspan>
+<tspan x="26" y="405.2">           #@@#      ##      @@#</tspan>
+<tspan x="26" y="411.8">           @@%       +@%*     %#</tspan>
+<tspan x="26" y="418.4">           @@#       #@@*    #@#</tspan>
 </text>
 </g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.1250;0.3000;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.1250;0.3000;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="66" font-size="15" font-weight="700"><tspan class="ac">catcraze</tspan><tspan class="d">@</tspan><tspan class="ac">gorillaos</tspan></text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.1458;0.3208;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.1458;0.3208;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><line x1="388" y1="82" x2="874" y2="82" stroke="#30363d"/></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.1667;0.3417;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.1667;0.3417;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="102" class="k">Name:</text><text x="492" y="102" class="v">Ezra, a.k.a. CatCraze</text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.1875;0.3625;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.1875;0.3625;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="120" class="k">Builds:</text><text x="492" y="120" class="v">VR mod tools, launchers, the sites behind them</text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2083;0.3833;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2083;0.3833;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="138" class="k">Runs on:</text><text x="492" y="138" class="v">Windows . macOS . Linux . Quest</text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2292;0.4042;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2292;0.4042;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="156" class="k">Daily:</text><text x="492" y="156" class="v">Visual Studio . VS Code . Unity . zsh</text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2500;0.4250;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2500;0.4250;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="186" fill="#c9d1d9" font-weight="700">What I ship</text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2708;0.4458;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2708;0.4458;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="398" y="204" class="ac">gorillaos.org</text><text x="548" y="204" class="d">mod menu + launcher for Gorilla Tag</text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2917;0.4667;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2917;0.4667;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="398" y="222" class="ac">bonelabcraze.com</text><text x="548" y="222" class="d">mod manager for BONELAB</text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.3125;0.4875;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.3125;0.4875;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="398" y="240" class="ac">gtagmapping.org</text><text x="548" y="240" class="d">courses for building custom maps</text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.3333;0.5083;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.3333;0.5083;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="272" fill="#c9d1d9" font-weight="700">Languages</text></g>
-<clipPath id="pill"><rect x="0" y="0" width="486" height="11" rx="5.5"/></clipPath>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.3542;0.4042;1"/><g transform="translate(388,282)" clip-path="url(#pill)"><g transform="scale(1,1)"><animateTransform attributeName="transform" type="scale" begin="0s" dur="2.4s" fill="freeze" values="0.0001 1;0.0001 1;1 1;1 1" keyTimes="0;0.3542;0.7500;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/>
-<rect x="0.00" y="0" width="347.60" height="11" fill="#178600"/>
-<rect x="347.00" y="0" width="47.26" height="11" fill="#f1e05a"/>
-<rect x="393.66" y="0" width="35.59" height="11" fill="#e34c26"/>
-<rect x="428.65" y="0" width="17.12" height="11" fill="#3178c6"/>
-<rect x="445.18" y="0" width="14.21" height="11" fill="#a371f7"/>
-<rect x="458.78" y="0" width="12.75" height="11" fill="#6e8299"/>
-<rect x="470.93" y="0" width="9.35" height="11" fill="#f05138"/>
-<rect x="479.68" y="0" width="6.92" height="11" fill="#8b949e"/>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.1250;0.3000;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.1250;0.3000;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="376" y="74" font-size="16" font-weight="700" class="ac">catcraze</text></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.1458;0.3208;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.1458;0.3208;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><line x1="376" y1="90" x2="864" y2="90" stroke="#30363d"/></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.1667;0.3417;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.1667;0.3417;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="376" y="118" fill="#c9d1d9">i make mod tools for vr games</text></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.1875;0.3625;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.1875;0.3625;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="376" y="139" fill="#c9d1d9">side projects mostly, and most of them are private</text></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2083;0.3833;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2083;0.3833;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="376" y="186" class="k">repos</text><text x="472" y="186"><tspan class="v" font-weight="700">28</tspan><tspan class="d"> of them, 25 private</tspan></text></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2292;0.4042;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2292;0.4042;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="376" y="208" class="k">commits</text><text x="472" y="208"><tspan class="v" font-weight="700">3,884</tspan><tspan class="d"> across all of it</tspan></text></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2500;0.4250;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2500;0.4250;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="376" y="230" class="k">code</text><text x="472" y="230"><tspan class="v" font-weight="700">34.9 MB</tspan><tspan class="d"> and most of it c#</tspan></text></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2708;0.4458;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.2708;0.4458;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="376" y="282" class="d">languages</text></g>
+<clipPath id="pill"><rect x="0" y="0" width="488" height="11" rx="5.5"/></clipPath>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.2917;0.3417;1"/><g transform="translate(376,294)" clip-path="url(#pill)"><g transform="scale(1,1)"><animateTransform attributeName="transform" type="scale" begin="0s" dur="2.4s" fill="freeze" values="0.0001 1;0.0001 1;1 1;1 1" keyTimes="0;0.2917;0.6875;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/>
+<rect x="0.00" y="0" width="349.03" height="11" fill="#178600"/>
+<rect x="348.43" y="0" width="47.45" height="11" fill="#f1e05a"/>
+<rect x="395.28" y="0" width="35.74" height="11" fill="#e34c26"/>
+<rect x="430.42" y="0" width="17.19" height="11" fill="#3178c6"/>
+<rect x="447.01" y="0" width="14.26" height="11" fill="#a371f7"/>
+<rect x="460.67" y="0" width="12.80" height="11" fill="#6e8299"/>
+<rect x="472.87" y="0" width="9.38" height="11" fill="#f05138"/>
+<rect x="481.66" y="0" width="6.94" height="11" fill="#8b949e"/>
 </g></g></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.4792;0.6542;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.4792;0.6542;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><circle cx="392" cy="306" r="4.5" fill="#178600"/><text x="402" y="310" fill="#c9d1d9" font-size="12">C# <tspan class="d">71.4%</tspan></text><circle cx="520" cy="306" r="4.5" fill="#f1e05a"/><text x="530" y="310" fill="#c9d1d9" font-size="12">JavaScript <tspan class="d">9.6%</tspan></text><circle cx="648" cy="306" r="4.5" fill="#e34c26"/><text x="658" y="310" fill="#c9d1d9" font-size="12">HTML <tspan class="d">7.2%</tspan></text><circle cx="776" cy="306" r="4.5" fill="#3178c6"/><text x="786" y="310" fill="#c9d1d9" font-size="12">TypeScript <tspan class="d">3.4%</tspan></text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.5000;0.6750;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.5000;0.6750;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><circle cx="392" cy="325" r="4.5" fill="#a371f7"/><text x="402" y="329" fill="#c9d1d9" font-size="12">CSS <tspan class="d">2.8%</tspan></text><circle cx="520" cy="325" r="4.5" fill="#6e8299"/><text x="530" y="329" fill="#c9d1d9" font-size="12">ShaderLab <tspan class="d">2.5%</tspan></text><circle cx="648" cy="325" r="4.5" fill="#f05138"/><text x="658" y="329" fill="#c9d1d9" font-size="12">Swift <tspan class="d">1.8%</tspan></text><circle cx="776" cy="325" r="4.5" fill="#8b949e"/><text x="786" y="329" fill="#c9d1d9" font-size="12">other <tspan class="d">1.3%</tspan></text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.5208;0.6958;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.5208;0.6958;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="362" class="k">Repos:</text><text x="492" y="362"><tspan class="v" font-weight="700">28</tspan><tspan class="d">, 25 of them private</tspan></text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.5417;0.7167;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.5417;0.7167;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="380" class="k">Commits:</text><text x="492" y="380"><tspan class="v" font-weight="700">3,884</tspan><tspan class="d"> across all of it</tspan></text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.5625;0.7375;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.5625;0.7375;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="398" class="k">Code:</text><text x="492" y="398"><tspan class="v" font-weight="700">34.9 MB</tspan><tspan class="d"> and most of it C#</tspan></text></g>
-<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.5833;0.7583;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.5833;0.7583;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="388" y="432"><tspan class="ac">$</tspan> <tspan fill="#c9d1d9">ship it</tspan></text><rect x="462" y="422.5" width="8" height="12" fill="#2d97f8" class="cur"/></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.4167;0.5917;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.4167;0.5917;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><circle cx="380" cy="320" r="4.5" fill="#178600"/><text x="390" y="324" fill="#c9d1d9" font-size="12">C# <tspan class="d">71.4%</tspan></text><circle cx="503" cy="320" r="4.5" fill="#f1e05a"/><text x="513" y="324" fill="#c9d1d9" font-size="12">JavaScript <tspan class="d">9.6%</tspan></text><circle cx="626" cy="320" r="4.5" fill="#e34c26"/><text x="636" y="324" fill="#c9d1d9" font-size="12">HTML <tspan class="d">7.2%</tspan></text><circle cx="749" cy="320" r="4.5" fill="#3178c6"/><text x="759" y="324" fill="#c9d1d9" font-size="12">TypeScript <tspan class="d">3.4%</tspan></text></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.4375;0.6125;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.4375;0.6125;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><circle cx="380" cy="340" r="4.5" fill="#a371f7"/><text x="390" y="344" fill="#c9d1d9" font-size="12">CSS <tspan class="d">2.8%</tspan></text><circle cx="503" cy="340" r="4.5" fill="#6e8299"/><text x="513" y="344" fill="#c9d1d9" font-size="12">ShaderLab <tspan class="d">2.5%</tspan></text><circle cx="626" cy="340" r="4.5" fill="#f05138"/><text x="636" y="344" fill="#c9d1d9" font-size="12">Swift <tspan class="d">1.8%</tspan></text><circle cx="749" cy="340" r="4.5" fill="#8b949e"/><text x="759" y="344" fill="#c9d1d9" font-size="12">other <tspan class="d">1.3%</tspan></text></g>
+<g opacity="1"><animate attributeName="opacity" begin="0s" dur="2.4s" fill="freeze" values="0;0;1;1" keyTimes="0;0.4583;0.6333;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><animateTransform attributeName="transform" type="translate" begin="0s" dur="2.4s" fill="freeze" values="-10 0;-10 0;0 0;0 0" keyTimes="0;0.4583;0.6333;1" calcMode="spline" keySplines="0 0 1 1;0.22 1 0.36 1;0 0 1 1"/><text x="376" y="398"><tspan class="ac">$</tspan> <tspan fill="#c9d1d9">ship it</tspan></text><rect x="444" y="388.5" width="8" height="12" fill="#2d97f8" class="cur"/></g>
 </svg>
