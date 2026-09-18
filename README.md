@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/card-dark.svg?v=2">
-  <img alt="catcraze" src="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/card-light.svg?v=2" width="890">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/card-dark.svg?v=3">
+  <img alt="catcraze" src="https://raw.githubusercontent.com/SuperCatCraze/SuperCatCraze/main/assets/card-light.svg?v=3" width="890">
 </picture>
 
 <br><br>
@@ -17,12 +17,11 @@
 
 ### side projects
 
-most of my stuff is private so this account looks way quieter than it is. whats public:
+most of my stuff is private so this account looks way emptier than it actually is. check out my
+pinned repos, thats everything thats public
 
-**[FlyBuddy](https://github.com/SuperCatCraze/FlyBuddy)**  
-a pet fruit fly for your mac. its not scripted, theres a 166,700 neuron sim of the real fly
-connectome running behind it, so when it walks toward food thats an actual brain deciding to
+[FlyBuddy](https://github.com/SuperCatCraze/FlyBuddy) is a pet fruit fly for your mac. its not
+scripted or anything, it runs on a sim of a real fly brain so it works out where to go on its own
 
-**[quest-link-frozen-screen-fix](https://github.com/SuperCatCraze/quest-link-frozen-screen-fix)**  
-quest link freezes on one frame, audio keeps playing, tracking still works. the fix is four
-clicks. took me two hours to find so heres everything that did NOT work too
+[quest-link-frozen-screen-fix](https://github.com/SuperCatCraze/quest-link-frozen-screen-fix) is
+just me losing 2 hours to quest link freezing on one frame. ended up being 4 clicks

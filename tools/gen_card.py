@@ -11,7 +11,7 @@ LANGS=[("C#",71.4,"#178600","#178600"),("JavaScript",9.6,"#f1e05a","#b59f00"),
        ("HTML",7.2,"#e34c26","#e34c26"),("TypeScript",3.4,"#3178c6","#3178c6"),
        ("CSS",2.8,"#a371f7","#663399"),("ShaderLab",2.5,"#6e8299","#4a5a6a"),
        ("Swift",1.8,"#f05138","#f05138"),("other",1.3,"#8b949e","#8b949e")]
-BLURB=["i make mod tools for vr games","side projects mostly, and most of them are private"]
+BLURB=["i make mod tools for vr games","mostly side projects and most of them are private"]
 STATS=[("repos","28"," of them, 25 private"),("commits","3,884"," across all of it"),
        ("code","34.9 MB"," and most of it c#")]
 
@@ -95,17 +95,25 @@ def build(c, dark):
         A(f'<rect x="{x:.2f}" y="0" width="{w+0.6:.2f}" height="11" fill="{cd if dark else cl}"/>'); x+=w
     A('</g></g></g>'); d[0]+=0.30
     y+=30
-    for i in range(0,len(LANGS),4):
+    LFS=12.0; ADV=LFS*0.6; DOT=14.0; GAP=20.0
+    lines=[[]]; lx=0.0
+    for n,p,cd,cl in LANGS:
+        w = DOT + (len(n)+1+len(f"{p}%"))*ADV      # dot + "name 71.4%"
+        if lines[-1] and lx+w > BW:
+            lines.append([]); lx=0.0
+        lines[-1].append((n,p,cd,cl,lx)); lx += w+GAP
+    for ln in lines:
         parts=[]
-        for j,(n,p,cd,cl) in enumerate(LANGS[i:i+4]):
-            lx=RX+j*123
-            parts.append(f'<circle cx="{lx+4}" cy="{y-4}" r="4.5" fill="{cd if dark else cl}"/>'
-                         f'<text x="{lx+14}" y="{y}" fill="{c["txt"]}" font-size="12">{esc(n)} '
+        for n,p,cd,cl,ox in ln:
+            parts.append(f'<circle cx="{RX+ox+4:.1f}" cy="{y-4}" r="4.5" fill="{cd if dark else cl}"/>'
+                         f'<text x="{RX+ox+14:.1f}" y="{y}" fill="{c["txt"]}" font-size="{LFS}">{esc(n)} '
                          f'<tspan class="d">{p}%</tspan></text>')
         row(''.join(parts)); y+=20
     y+=34
+    PROMPT="$ ship it"; PADV=13*0.6
     row(f'<text x="{RX}" y="{y}"><tspan class="ac">$</tspan> <tspan fill="{c["txt"]}">ship it</tspan></text>'
-        f'<rect x="{RX+68}" y="{y-9.5}" width="8" height="12" fill="{c["acc"]}" class="cur"/>', step=0)
+        f'<rect x="{RX+len(PROMPT)*PADV+4:.1f}" y="{y-9.5}" width="8" height="12" '
+        f'fill="{c["acc"]}" class="cur"/>', step=0)
     A('</svg>')
     return '\n'.join(o)
 
